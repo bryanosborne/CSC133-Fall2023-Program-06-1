@@ -1,4 +1,4 @@
-# CSC133-Fall2023-Program-05-1
+# CSC133-Fall2023-Program-06-1
 
 You have been contracted by College of the Ozarks to create a program in the Python language that will prompt students for their name, age, weight (in pounds) and height (in inches), calculate their Body Mass Index (BMI) and category, and print the information in a format suitable for a card to be kept in their wallet.
 
